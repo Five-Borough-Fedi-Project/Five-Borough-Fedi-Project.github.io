@@ -11,7 +11,9 @@ in most cases! All gifts are handled by Five Borough Fedi Project, the New York-
 
 Make a one-time or a repeating donation using this form. Your payment is processed by GiveLively and Stripe. One hundred percent of your online donation goes to Five Borough Fedi Project for the operation of Masto.NYC.
 
-[DONATION FORM GOES HERE]
+<!-- Begin Give Lively Fundraising Widget -->
+<script>gl=document.createElement('script');gl.src='https://secure.givelively.org/widgets/simple_donation/99-2048115.js?show_suggested_amount_buttons=true&show_in_honor_of=false&address_required=false&has_required_custom_question=null&suggested_donation_amounts[]=5&suggested_donation_amounts[]=10&suggested_donation_amounts[]=25&suggested_donation_amounts[]=50';document.getElementsByTagName('head')[0].appendChild(gl);</script><div id="give-lively-widget" class="gl-simple-donation-widget"></div>
+<!-- End Give Lively Fundraising Widget -->
 
 ## Mail us a check
 
