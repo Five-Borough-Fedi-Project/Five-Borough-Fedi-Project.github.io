@@ -1,7 +1,5 @@
 <img src="images/statue.png" style="margin:10px; float:right; max-width: 50%" alt="A cartoon mastodon dressed like the Statue of Liberty and enjoying a slice of pizza." />
 
-# Five Borough Fedi Project
-
 This is the homepage of Five Borough Fedi Project (FBFP), the New York-based nonprofit corporation that operates the [Masto.NYC Mastodon server](https://masto.nyc).
 
 ## About FBFP and Masto.NYC
