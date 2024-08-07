@@ -1,77 +1,47 @@
-# 🐘 New York Metropolitan Mastodon! 🗽
+<script>gl=document.createElement('script');gl.src='https://secure.givelively.org/widgets/branded_donation/99-2048115.js';document.getElementsByTagName('head')[0].appendChild(gl);</script><div data-widget-src='https://secure.givelively.org/donate/99-2048115?ref=sd_widget' id="give-lively-widget" class="gl-branded-donation-widget" style="float: right;"></div>
+# Five Borough Fedi Project
 
-![](https://masto.nyc/system/site_uploads/files/000/000/003/original/447912163db1fd95.png)
+This is the homepage of Five Borough Fedi Project (FBFP), the New York-based nonprofit corporation that operates the [Masto.NYC Mastodon server](https://masto.nyc).
 
-## Welcome, neighbors!
+## About FBFP and Masto.NYC
 
-You’ve reached masto.nyc, a Mastodon instance based in New York City that’s open to everyone residing or working in the greater NYC area!
+Five Borough Fedi Project was founded by the original operators of the Masto.NYC
+social media service in 2024. This is our mission statement:
 
-## Membership policy
+> The Five Borough Fedi Project operates free, federated, non-commercial social media services for the residents, workers, and organizations of the New York metropolitan area.
 
-Anyone who lives or works in the New York Metropolitan Area is welcome to create an account on masto.nyc. 
+As a non-profit corporation organized in New York State, FBFP lets Masto.NYC be owned and operated by an independent, volunteer-run legal entity, rather than relying on the time and resources of any particular individual. Its charitable status also facilitates public donations. All this helps us keep Masto.NYC online, stable, and funded for the long term.
 
-If you don’t live or work in the area, you’re still welcome to explore the site, but please don’t make an account here. This rule is enforced against blatant offenders who don’t reside in [what Wikipedia considers the New York Metropolitan Area](https://en.wikipedia.org/wiki/New_York_metropolitan_area). 
+FBFP is registered in the United States as a 501(c)(3) charitable organization. Our EIN is 99-2048115.
 
-## Links and resources
+## Support Masto.NYC with a donation
 
-### Site status page
+[Masto.NYC](https://masto.nyc/about) is a free public service funded by its users. If you love Masto.NYC and you can afford to help support our operations, then we would be so grateful for a gift of any size using the form on this page, or one of the alternate methods described below.
 
-Our main status page is at [status.masto.nyc](https://status.masto.nyc/).
+Donations by U.S. citizens are tax-deductible
+in most cases! All gifts are handled by Five Borough Fedi Project, the New York-based charitable nonprofit that owns and operates Masto.NYC. All donations help us pay for the various services that Masto.NYC needs to stay online and stable.
 
-### Moderators wanted! 👩🏽‍⚖️👨🏿‍⚖️👩🏻‍⚖️🧑‍⚖️
+### Make a donation online
 
-Want to be a masto.nyc mod? [Apply here!](https://forms.gle/bf9zVXUxTWjEZ4qSA)
+To make a one-time or repeating donation using a credit card, Apple Pay, or bank withdrawal, fill out the form on this page. Your payment is processed by GiveLively and Stripe. One hundred percent of your online donation goes to Five Borough Fedi Project for the operation of Masto.NYC.
 
-### Art credit
+While we are grateful for gifts of any size, we especially appreciate recurring donations. They do a lot to help us plan how much money we can spend on server costs and such month-to-month. 
 
-All of our server artwork is by [Marykate Carney](https://www.instagram.com/marykate_carney/).
+### Use corporate matching
 
-### Infrastructure source code
+If your employer supports a donation-matching program for charitable gifts, or even provides an annual stipend expressly for donations, then you might be able to use this program to donate to FBFP and Masto.NYC. Check your corporate donation program's charity list for "Five Borough Fedi Project".
 
-[Our infrastructure source is on GitHub](https://github.com/Five-Borough-Fedi-Project/masto.nyc). Feel free to open an issue with any feature requests or questions!   
+### Mail us a check
 
-## Moderation policies
+If you'd prefer, you can also just mail us an old-fashioned on-paper check, drawn on a U.S. bank:
 
-All of our moderation is driven by our server rules, listed later on this page. If you haven't read them already, please do so!
+Five Borough Fedi Project<br/>
+93 4th Ave.<br/>
+PO Box 1323<br/>
+New York, NY 10003
 
-### Report rule-breaking behavior
+Make the check payable to Five Borough Fedi Project, Inc. We don't receive a lot of paper mail, so you can also email <help@masto.nyc> to let us know that we should expect your gift!
 
-We rely on our users to report content that conflicts with our server's rules. If you spot a post that breaks the rules of this server, please report it! This is true for both local and federated content.
+## Contact us
 
-### Rules enforcement for local users
-
-If we receive valid complaints about a masto.nyc user making rule-breaking posts, then we respond according to the following general pattern:
-
-1. The first infraction results in a warning.
-1. Subsequent infractions result in temporary suspension.
-1. Repeated infractions might result in permanent suspension.
-
-We reserve the right to skip directly to suspension for egregious infractions, at the moderators' discretion.
-
-### Blocklists and defederation
-
-We subscribe to the [oliphant.social Tier 0 blocklist](https://codeberg.org/oliphant/blocklists/).
-
-At the moderators' discretion, we might from time to time block additional servers as the situation warrants. We use our own server's rules as a guide for blocking servers. For example, if we receive reports about a server whose users post a lot of targeted spam with no obvious moderation, then we might block that server.
-
-If you want to unblock a server, then please open an issue on our GitHub.
-
-## Shutdown policy
-
-In adherence to the [Mastodon server covenant](https://joinmastodon.org/covenant), we post public notice three months prior to any server move or shutdown events.
-
-## Our server roadmap
-
-This is still a really small instance, so expect some things to change as we grow.
-
-Our current priority is to make this place a welcome home for its users. This means, in order of priority, we will be pursuing the following:
-
-1. Reliability and uptime
-
-1. Accessibility
-
-1. Usability
-
-We want to make this server into a place that our neighbors want to join, with a focus on relevant content.
-
-And last but not least, let us know what you want out of this server!
+You can email the FBFP directors at the general Masto.NYC address: <help@masto.nyc>.
