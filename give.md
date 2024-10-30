@@ -1,8 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: page
 title: Support Masto.NYC with a donation
 ---
 Masto.NYC is a free public service funded by its users. If you love Masto.NYC and you can afford to help support our operations, then we would be so grateful for a gift of any size using one of the methods listed below.
