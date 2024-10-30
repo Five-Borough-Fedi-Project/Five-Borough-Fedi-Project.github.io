@@ -1,0 +1,12 @@
+domain: 5bfp.org
+url: https://5bfp.org
+title: Five Borough Fedi Project
+email: help@masto.nyc
+description: >-
+ Five Borough Fedi Project is the nonprofit that owns and
+ operates Masto.NYC, a free social media service for the people
+ and organizations of New York City.
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
