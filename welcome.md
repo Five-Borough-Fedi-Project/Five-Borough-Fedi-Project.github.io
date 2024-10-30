@@ -7,7 +7,7 @@ title: Welcome to Masto.NYC
 
 ## Hello, neighbor!
 
-We’re very happy to have you join us at Masto.NYC.
+We’re very happy to have you join us at [Masto.NYC](http://masto.nyc).
 
 This page helps you get started with your new account, and provides some information about the server.
 
