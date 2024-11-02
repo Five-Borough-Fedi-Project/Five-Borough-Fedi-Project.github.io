@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Five Borough Fedi Project
 ---
 
 <img src="images/statue.png" style="margin:10px; float:right; max-width: 50%" alt="A cartoon mastodon dressed like the Statue of Liberty and enjoying a slice of pizza." />
