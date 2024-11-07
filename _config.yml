@@ -6,7 +6,14 @@ description: >-
  Five Borough Fedi Project is the nonprofit that owns and
  operates Masto.NYC, a free social media service for the people
  and organizations of New York City.
-# Build settings
 theme: minima
 plugins:
   - jekyll-feed
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      image:
+        path: /images/subway.png
+        alt: Cartoon image a New York City subway car with various local critters riding it. Passengers include a pigeon, a family of rats, a cockroach wearing a backback, and Warren, the Masto.NYC mascot, an elephant listening music on their headphones.
