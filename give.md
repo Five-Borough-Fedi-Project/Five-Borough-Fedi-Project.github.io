@@ -2,24 +2,20 @@
 layout: page
 title: Support Masto.NYC with a donation
 ---
-Masto.NYC is a free public service funded by its users. If you love Masto.NYC and you can afford to help support our operations, then we would be so grateful for a gift of any size using one of the methods listed below.
 
-All donations help us pay for the various services that Masto.NYC needs to stay online and stable. A public Mastodon server isn't cheap to run, and our costs only rise as our usage grows. We do rely on the generosity of our user community to make sure that we can continue to deliver Masto.NYC as a fast, reliable service.
+Masto.NYC is a free public service funded by its community. If you love Masto.NYC and you can afford to help support our operations, then you can make a one-time or recurring gift using the form on this page. Donations are tax-deductible where allowed by law.
 
-Donations by U.S. citizens are tax-deductible
-in most cases!
+You can also [use corporate matching](#matching), or [mail us a check](#mail).
 
-### Make a donation online
+<!-- Begin Give Lively Fundraising Widget -->
+<script>gl=document.createElement('script');gl.src='https://secure.givelively.org/widgets/branded_donation/99-2048115.js';document.getElementsByTagName('head')[0].appendChild(gl);</script><div data-widget-src='https://secure.givelively.org/donate/99-2048115?ref=sd_widget' id="give-lively-widget" class="gl-branded-donation-widget"></div>
+<!-- End Give Lively Fundraising Widget -->
 
-To make a one-time or repeating donation using a credit card, Apple Pay, or bank withdrawal, [visit our donation page at Give Lively](http://masto.nyc/give).
-
-While we are grateful for gifts of any size, we especially appreciate monthly donations. They do a lot to help us plan how much money we can spend on server costs and other expenses month-to-month. 
-
-### Use corporate matching
+### Use corporate matching {#matching}
 
 If your employer supports a donation-matching program for charitable gifts, or even provides an annual stipend expressly for donations, then you might be able to use this program to donate to 5BFP and Masto.NYC. Check your corporate donation program's charity list for "Five Borough Fedi Project".
 
-### Mail us a check
+### Mail us a check {#mail}
 
 You can also just mail us an old-fashioned on-paper check, drawn on a U.S. bank:
 
