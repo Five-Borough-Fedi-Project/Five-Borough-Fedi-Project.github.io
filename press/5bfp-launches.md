@@ -3,13 +3,13 @@ layout: page
 title: Five Borough Fedi Project launches, bringing independent social media to NYC
 ---
 
-_New York City, 6 January 2025_—Five Borough Fedi Project (5BFP) formally launched today, a new nonprofit corporation dedicated to providing free, independent, non-commercial social media services for the people and organizations of New York City.
+_New York City, 6 January 2025_—[Five Borough Fedi Project](https://5bfp.org) (5BFP) formally launched today, a new nonprofit corporation dedicated to providing free, independent, non-commercial social media services for the people and organizations of New York City.
 
-To this end, 5BFP has become the legal steward of Masto.NYC, a free Mastodon-based service that a small team of academic and technology professionals launched during the winter of 2022, originally as a response to Elon Musk’s purchase of Twitter. This original Masto.NYC team has become the founding board of directors for 5BFP.
+To this end, 5BFP has become the legal steward of [Masto.NYC](https://masto.nyc), a free Mastodon-based service that a small team of academic and technology professionals launched during the winter of 2022, originally as a response to Elon Musk’s purchase of Twitter. This original Masto.NYC team has become the founding board of directors for 5BFP.
 
 “The rapid destruction of Twitter and the slower rot of Facebook, both due to the follies of billionaires, demonstrate the inevitable failure of any profit-seeking social media service,” said Jason McIntosh, president of 5BFP. “Masto.NYC, like other independently run services, provides an alternative that isn’t doomed to commercial exploitation.”
 
-Like most Mastodon servers, Masto.NYC is part of the larger “fediverse”, letting users of Masto.NYC follow and interact with users of a vast global network of other independent social media servers. A Masto.NYC user can also view a local feed made entirely of posts by other Masto.NYC users. Users can also follow an “#NYC” hashtag, used by people across the fediverse to mark posts relevant to New York City.
+Like most Mastodon servers, Masto.NYC is part of the larger “fediverse”, letting users of Masto.NYC follow and interact with users of a vast global network of other independent social media servers. A Masto.NYC user can also view a local feed made entirely of posts by other Masto.NYC users. Users can also follow [an “#NYC” hashtag](https://masto.nyc/tags/NYC), used by people across the fediverse to mark posts relevant to New York City.
 
 Despite no formal advertising or promotion during its first two years of operation, Masto.NYC has accrued several thousand users representing a broad spectrum of New Yorkers, more than 150 of whom are active on the server on any given day. Signing up to the server is free, requiring only that every account represent either an individual who lives or works in the New York metro area, or an organization that is based there. Users must also agree to several rules of conduct—including “Be neighborly”—which a volunteer moderation team actively enforces.
 
