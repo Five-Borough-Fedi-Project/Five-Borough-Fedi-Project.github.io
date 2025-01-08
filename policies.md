@@ -75,3 +75,8 @@ Five Borough Fedi Project<br />
 New York, NY 10003
 </p>
 <help@masto.nyc>
+
+## Press releases
+
+* [Five Borough Fedi Project launches,
+bringing independent social media to NYC](/press/5bfp-launches.html)
