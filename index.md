@@ -16,6 +16,12 @@ social media service in 2024. This is our mission statement:
 
 As a non-profit corporation organized in New York State, 5BFP owns and operates Masto.NYC as an independent, volunteer-run legal entity. The organization's 501(c)(3) charitable status lets us accept tax-deductible donations from the public. All this helps us keep Masto.NYC online, stable, and funded for the long term.
 
+## Directors
+
+* [jmac](https://masto.nyc/@jmac) — President
+* [seano](https://masto.nyc/@seano) — Secretary and Treasurer
+* [kayla](https://masto.nyc/@kayla)
+
 ## Contact us
 
 You can email the 5BFP directors at the general Masto.NYC address: <help@masto.nyc>.
