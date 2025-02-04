@@ -50,8 +50,8 @@ The lopsided nature of these two funding sources has two causes:
     * $333.95 to Cloudflare, which Masto.NYC uses for network resiliency.
     * $122.00 to FastMail, which handles email services for Masto.NYC and 5BFP.
     * $85.00 to Namecheap, the domain registrar used by Masto.NYC and 5BFP.
-* $222 leased a physical post office box.
-* $200 covered various bank fees. These included some overdraft errors while setting up the organization, which 5BFP board members covered by making personal donations to 5BFP.
+* $222.00 leased a physical post office box.
+* $200.00 covered various bank fees. These included some overdraft errors while setting up the organization, which 5BFP board members covered by making personal donations to 5BFP.
 
 The Digital Ocean expense reflects less than half a year of service, since Masto.NYC migrated to a cloud-based system only in August 2024. 
 
