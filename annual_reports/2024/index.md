@@ -23,7 +23,7 @@ Masto.NYC was originally launched as a passion project in late 2022, well before
 
 ## Financial summary
 
-We took in $4,174.68 and spent $1,453.39, for a net gain of $2,721.29. Since 2024 was the year that the organization, $2,721.29 also reflects the amount of money that 5BFP had in its bank account at year's end.
+We took in $4,174.68 and spent $1,453.39, for a net gain of $2,721.29. Since 2024 was the year that the organization was founded, $2,721.29 also reflects the amount of money that 5BFP had in its bank account at year's end.
 
 ### Income
 
