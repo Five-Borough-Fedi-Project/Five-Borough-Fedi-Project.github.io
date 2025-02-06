@@ -80,3 +80,7 @@ New York, NY 10003
 
 * [Five Borough Fedi Project launches,
 bringing independent social media to NYC](/press/5bfp-launches.html)
+
+## Annual transparency reports
+
+* [2024](/annual_reports/2024/index.md)
