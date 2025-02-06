@@ -13,7 +13,7 @@ This report summarizes the activity of the Five Borough Fedi Project (5BFP) duri
 
 During calendar year 2024, 5BFP spent a bit less than $1,500, mostly on paying for the various hosting services that power Masto.NYC. We started to use and pay for these services only in August 2024, and the relatively modest expenditure reflects this late start.
 
-5BFP operations have largely been covered by a generous corporate matching program, associated with a small number of donors. This has given the organization the good fortune of a relatively worry-free launch, though we do need to follow up to reduce its financial dependence on a single income source.
+5BFP operations have largely been covered by a generous corporate matching program. This has given the organization the good fortune of a relatively worry-free launch, though we do need to follow up to reduce its financial dependence on a single income source.
 
 ## Program activity
 
@@ -31,7 +31,7 @@ We took in $4,174.68 and spent $1,453.39, for a net gain of $2,721.29. Since 202
 
 5BFP took in $4,174.68 during 2024:
 
-* $3,745.00 came from a corporate charity program, with employees of that corporation using their philanthropy employment benefit to direct donations to 5BFP.
+* $3,745.00 came from a corporate charity program, with an employee of that corporation using their philanthropy employment benefit to direct donations to 5BFP.
 * $429.68 came from individual donors.
 
 The lopsided nature of these two funding sources has two causes:
@@ -59,9 +59,9 @@ The Digital Ocean expense reflects less than half a year of service, since Masto
 
 We project that 5BFP will need to spend more than $3,000 on its infrastructure during 2025, a figure that includes a full year of service from Digital Ocean at our current monthly rate.
 
-Thanks to regular monthly income from a corporate matching program, 5BFP will likely cover this cost without difficulty in 2025. However, we need to acknowledge that this income source is as fragile as it is generous: it depends upon the continued employment of a very small number of donors within that corporation, as well as no change in philanthropic priorities for those employees.
+Thanks to regular monthly income from a corporate matching program, 5BFP will likely cover this cost without difficulty in 2025. However, we need to acknowledge that this income source is as fragile as it is generous: it depends  upon the continued employment of a single donor within that corporation, as well as no change in philanthropic priorities for that employee.
 
-Since we don't wish to assume that either of these will remain true indefinitely into the future, 5BFP intends to ramp up the following two efforts in 2025:
+Since we don't wish to assume that either of these will remain true indefinitely, 5BFP intends to ramp up the following two efforts in 2025:
 
 * Grow the community of active Masto.NYC users. We want to achieve a new baseline of 200 monthly active users (MAU), up from our 2024 average of 150-ish MAU.
 * Put more energy and visibility into fundraising. We'd like to make our user base feel good about helping to financially support Masto.NYC, letting 5BFP become less dependent on its initial corporate-matching source.
