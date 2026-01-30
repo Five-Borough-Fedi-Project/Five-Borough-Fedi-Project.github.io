@@ -17,7 +17,7 @@ This page helps you get started with your new account, and provides some informa
 
 By choosing Masto.NYC as your server and setting up an account, you’ve already completed the first couple of steps. Next, you should fill out your profile, and then find some initial accounts and hashtags to follow.
 
-We recommend [the `#NYC` hashtag](https://masto.nyc/tags/NYC), for starters! You can also follow [@warren](https://masto.nyc/@warren), the official Masto.NYC news-and-announcements account.
+We recommend [the `#NYC` hashtag](https://masto.nyc/tags/NYC), for starters! You can also take a look at our [curated starter pack](https://masto.nyc/starter_pack) and/or follow [@warren](https://masto.nyc/@warren), the official Masto.NYC news-and-announcements account.
 
 When you’re ready to say hello to your neighbors—and to the larger Fediverse—make an introductory post and tag it with `#introduction`!
 
