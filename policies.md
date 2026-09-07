@@ -89,7 +89,7 @@ We remove it, permanently suspend the accounts responsible, and report apparent 
 to NCMEC's CyberTipline automatically. To report it to us, use the **Report** option
 on any post or profile, or email <help@masto.nyc>.
 
-[Here are the full child safety standards for Masto.NYC.](https://github.com/Five-Borough-Fedi-Project/org-docs/blob/main/policy-docs/child-safety-policy.md)
+[Here are the full child safety standards for Masto.NYC.](/child-safety.html)
 
 ## Press releases
 
