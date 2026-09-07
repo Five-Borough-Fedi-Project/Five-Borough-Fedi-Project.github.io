@@ -95,6 +95,9 @@ Child safety at Five Borough Fedi Project is owned by the Masto.NYC moderation t
 reachable at <help@masto.nyc>. Mail to that address reaches the whole team, and it is
 the fastest way to get to someone who can speak to how we prevent and handle CSAM.
 
+Where a platform or authority requires a single designated individual rather than a
+team, that contact is reachable at <seano@masto.nyc>.
+
 ## Membership policy
 
 Anyone who lives or works in the New York metropolitan area is welcome to create an account on Masto.NYC. Business and organizations located here are also welcome!
