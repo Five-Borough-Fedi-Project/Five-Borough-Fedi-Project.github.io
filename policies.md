@@ -58,8 +58,12 @@ moderation team. You do not need an account to reach us — you can also email
 <help@masto.nyc> at any time, or write to us at the postal address
 listed under [DMCA Agent Information](#dmca-agent-information) below.
 
-You can, and in the United States should, also report CSAM directly to the National
-Center for Missing & Exploited Children (NCMEC) through the
+Reporting to the National Center for Missing & Exploited Children (NCMEC) is
+supported on Masto.NYC, and we already do it automatically: apparent CSAM identified
+on our service is submitted to NCMEC's CyberTipline through an automated pipeline, so
+you do not have to file a report yourself for us to act on one.
+
+You are still welcome to report to NCMEC directly, through the
 [CyberTipline](https://report.cybertip.org) or by calling 1-800-843-5678. Outside the
 United States, report to your national hotline through
 [INHOPE](https://www.inhope.org/EN/our-members).
@@ -74,9 +78,9 @@ When we receive a report of CSAE content, or find it ourselves:
 * We remove the content and suspend the account, permanently and without warning.
   The graduated warning process described under [Moderation policies](#moderation-policies)
   does not apply to CSAE; the first offense is the last one.
-* We report apparent CSAM to NCMEC's CyberTipline, as required of us by
-  18 U.S.C. § 2258A, and we preserve the associated content and account records for
-  the period the law requires so that they are available to investigators.
+* We report apparent CSAM to NCMEC's CyberTipline automatically, as required of us
+  by 18 U.S.C. § 2258A, and we preserve the associated content and account records
+  for the period the law requires so that they are available to investigators.
 * We cooperate with valid legal process from law enforcement.
 * Where the content originated on another server, we report it to that server's
   administrators and block the server if it does not act.
@@ -87,9 +91,9 @@ Privacy Protection Act (COPPA).
 
 ### Child safety point of contact
 
-Our designated child safety point of contact is Sean (<https://masto.nyc/@seano>),
-Secretary and Treasurer of Five Borough Fedi Project, reachable at <help@masto.nyc>.
-This address reaches the 5BFP directors, who are also the Masto.NYC moderation team.
+Child safety at Five Borough Fedi Project is owned by the Masto.NYC moderation team,
+reachable at <help@masto.nyc>. Mail to that address reaches the whole team, and it is
+the fastest way to get to someone who can speak to how we prevent and handle CSAM.
 
 ## Membership policy
 
