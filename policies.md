@@ -46,7 +46,7 @@ We chose a threshold rather than a hand-picked list so that this policy is somet
 
 **Threads is not blocked.** It appears on the list we subscribe to, and we take it off deliberately. If that changes it will be a decision made here, not something a list decided for us.
 
-A list never takes effect on its own. Updates are proposed automatically and a moderator reviews the additions before anything is applied, and we never remove a block automatically — if a server comes off IFTAS's list it stays blocked here until a person decides otherwise.
+Routine updates apply automatically. When a list adds a handful of servers, we take it. When a change is unusually large — more servers at once than these lists normally move — it is held and a moderator decides before anything happens. We never remove a block automatically either: if a server comes off IFTAS's list it stays blocked here until a person decides otherwise.
 
 If you already follow somebody on a server that gets added, we limit that server rather than suspending it, so the people you follow are not torn away from you without warning.
 
