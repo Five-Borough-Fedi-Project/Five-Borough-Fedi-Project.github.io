@@ -11,6 +11,12 @@ We’re very happy to have you join us at [Masto.NYC](http://masto.nyc).
 
 This page helps you get started with your new account, and provides some information about the server.
 
+## Get our Android app
+
+Prefer a native app on your phone? Masto.NYC has an official Android app, available now on Google Play:
+
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="60" />](https://play.google.com/store/apps/details?id=nyc.masto.android)
+
 ## Fill in your profile and discover your first follows
 
 [The front page of fedi.tips](https://fedi.tips) includes a Quick Guide for getting started with a new account on a server like Masto.NYC. If you’re new to Mastodon or the Fediverse, please give it a read!
