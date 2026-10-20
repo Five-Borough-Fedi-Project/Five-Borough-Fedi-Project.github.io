@@ -46,13 +46,15 @@ We chose a threshold rather than a hand-picked list so that this policy is somet
 
 **Threads is not blocked.** It appears on the list we subscribe to, and we take it off deliberately. If that changes it will be a decision made here, not something a list decided for us.
 
-Routine updates apply automatically. When a list adds a handful of servers, we take it. When a change is unusually large — more servers at once than these lists normally move — it is held and a moderator decides before anything happens. We never remove a block automatically either: if a server comes off IFTAS's list it stays blocked here until a person decides otherwise.
+Routine updates apply automatically. When a list adds a handful of servers, we take it. When a change is unusually large — more servers at once than these lists normally move — it is held and a moderator decides before anything happens.
+
+A block is lifted only when a moderator puts that server on our allowlist, and a batch of them is held for review the same way. A server dropping off an IFTAS list does not unblock it: those lists are not the only reason we block a server, and we are not going to restore federation with somebody because a third party stopped tracking them.
 
 If you already follow somebody on a server that gets added, we limit that server rather than suspending it, so the people you follow are not torn away from you without warning.
 
 At the moderators' discretion, we might from time to time block additional servers as the situation warrants. We use our own server's rules as a guide for blocking servers. For example, if we receive reports about a server whose users post a lot of targeted spam with no obvious moderation, then we might block that server.
 
-If you want a server unblocked, or want to ask why one is blocked, then [open an issue on our GitHub](https://github.com/Five-Borough-Fedi-Project/masto.nyc-docean/issues).
+If you want a server unblocked, or want to ask why one is blocked, then [open an issue on the repository that holds the list](https://github.com/Five-Borough-Fedi-Project/sync-blocked-fedi-domains/issues). The allowlist is a file in there, so a decision to unblock is a change you can read.
 
 ### Join us as a moderator
 
