@@ -112,4 +112,5 @@ bringing independent social media to NYC](/press/5bfp-launches.html)
 
 ## Annual transparency reports
 
+* [2025](/annual_reports/2025/index.md)
 * [2024](/annual_reports/2024/index.md)
